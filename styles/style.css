@@ -496,6 +496,7 @@ ul li {
   .about-fac {
     margin-bottom: 30px;
     cursor: pointer;
+    padding: 0 30px;
   }
   .about-fac:after {
     width: 140px;
